@@ -1,3 +1,8 @@
+# Data (except keep the .gitkeeps to maintain file structure)
+data/**
+!data/**/.gitkeep
+!data/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
