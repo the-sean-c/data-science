@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/402047761966909601/d693ca70d59248e4aa81eddaafb48df9/artifacts
+end_time: 1701308729737
+entry_point_name: ''
+experiment_id: '402047761966909601'
+lifecycle_stage: active
+run_id: d693ca70d59248e4aa81eddaafb48df9
+run_name: smiling-newt-529
+run_uuid: d693ca70d59248e4aa81eddaafb48df9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701308721428
+status: 3
+tags: []
+user_id: seandaly

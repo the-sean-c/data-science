@@ -5,7 +5,7 @@
 groups = ["default", "dev"]
 strategy = ["cross_platform"]
 lock_version = "4.4"
-content_hash = "sha256:6164ab20350572bdb90cfb51e89cc67604b0938b369ccf3d4db8fcf4669e0261"
+content_hash = "sha256:ada5c17dc8f7e9d9170307bfe5c60d9b0f5a7c9bd4a46c4d6fe8ae09070f3370"
 
 [[package]]
 name = "alembic"
@@ -803,6 +803,22 @@ files = [
 ]
 
 [[package]]
+name = "mapie"
+version = "0.7.0"
+requires_python = ">=3.7"
+summary = "A scikit-learn-compatible module for estimating prediction intervals."
+dependencies = [
+    "numpy>=1.21",
+    "packaging",
+    "scikit-learn",
+    "scipy",
+]
+files = [
+    {file = "MAPIE-0.7.0-py3-none-any.whl", hash = "sha256:2edfc18d205bb5654317e69fa8998c1d37749c5737f2e04f5fdf1eb96c7cc0a2"},
+    {file = "MAPIE-0.7.0.tar.gz", hash = "sha256:4c57ddaaec4509cc784ce50a2db1928656d00e94c5e563c36499efad0e2971db"},
+]
+
+[[package]]
 name = "markdown"
 version = "3.5.1"
 requires_python = ">=3.8"
@@ -1569,6 +1585,16 @@ files = [
 ]
 
 [[package]]
+name = "setuptools"
+version = "69.0.2"
+requires_python = ">=3.8"
+summary = "Easily download, build, install, upgrade, and uninstall Python packages"
+files = [
+    {file = "setuptools-69.0.2-py3-none-any.whl", hash = "sha256:1e8fdff6797d3865f37397be788a4e3cba233608e9b509382a2777d25ebde7f2"},
+    {file = "setuptools-69.0.2.tar.gz", hash = "sha256:735896e78a4742605974de002ac60562d286fa8051a7e2299445e8e8fbb01aa6"},
+]
+
+[[package]]
 name = "six"
 version = "1.16.0"
 requires_python = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*"
@@ -1846,6 +1872,24 @@ dependencies = [
 files = [
     {file = "werkzeug-3.0.1-py3-none-any.whl", hash = "sha256:90a285dc0e42ad56b34e696398b8122ee4c681833fb35b8334a095d82c56da10"},
     {file = "werkzeug-3.0.1.tar.gz", hash = "sha256:507e811ecea72b18a404947aded4b3390e1db8f826b494d76550ef45bb3b1dcc"},
+]
+
+[[package]]
+name = "xgboost"
+version = "2.0.2"
+requires_python = ">=3.8"
+summary = "XGBoost Python Package"
+dependencies = [
+    "numpy",
+    "scipy",
+]
+files = [
+    {file = "xgboost-2.0.2-py3-none-macosx_10_15_x86_64.macosx_11_0_x86_64.macosx_12_0_x86_64.whl", hash = "sha256:630f04b04b0dccd532ad9e5c112030c04ea4e4764b6c3dc8ac49431ce60c03df"},
+    {file = "xgboost-2.0.2-py3-none-macosx_12_0_arm64.whl", hash = "sha256:ceefbf09a66af56109e9076680e44f14895a09e3c81e1af9e22ee57a86d86c9b"},
+    {file = "xgboost-2.0.2-py3-none-manylinux2014_aarch64.whl", hash = "sha256:6c98b48229eefbdc7a30ce7df88ec5c8e88c5a5d13a7dd78952de2f12ae72480"},
+    {file = "xgboost-2.0.2-py3-none-manylinux2014_x86_64.whl", hash = "sha256:351acb1696f6e83ce7650a8ca1fee5d4f9e4cef78d39c0973984c8eb226e2bff"},
+    {file = "xgboost-2.0.2-py3-none-win_amd64.whl", hash = "sha256:f07f42441f05a289bc4d34342c2335726763ae0759d7241ef25d0eab007dbec4"},
+    {file = "xgboost-2.0.2.tar.gz", hash = "sha256:55b5188e6da1d61f02f30a5dd8daffc3a6b5bb975a7249bf381dc1754dc89688"},
 ]
 
 [[package]]

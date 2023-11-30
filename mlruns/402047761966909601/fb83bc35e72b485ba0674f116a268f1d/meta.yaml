@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/402047761966909601/fb83bc35e72b485ba0674f116a268f1d/artifacts
+end_time: 1701308627501
+entry_point_name: ''
+experiment_id: '402047761966909601'
+lifecycle_stage: active
+run_id: fb83bc35e72b485ba0674f116a268f1d
+run_name: adaptable-jay-673
+run_uuid: fb83bc35e72b485ba0674f116a268f1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701308619234
+status: 3
+tags: []
+user_id: seandaly

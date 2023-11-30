@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/402047761966909601/56b1fb7d421d4d11996c0f4ec8592e1c/artifacts
+end_time: 1701309466125
+entry_point_name: ''
+experiment_id: '402047761966909601'
+lifecycle_stage: active
+run_id: 56b1fb7d421d4d11996c0f4ec8592e1c
+run_name: valid_metrics
+run_uuid: 56b1fb7d421d4d11996c0f4ec8592e1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701309465286
+status: 4
+tags: []
+user_id: seandaly

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/402047761966909601/a4a0efc4c6d74108ab064b11a146e2fd/artifacts
+end_time: 1701308971907
+entry_point_name: ''
+experiment_id: '402047761966909601'
+lifecycle_stage: active
+run_id: a4a0efc4c6d74108ab064b11a146e2fd
+run_name: unruly-frog-179
+run_uuid: a4a0efc4c6d74108ab064b11a146e2fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701308963911
+status: 3
+tags: []
+user_id: seandaly
